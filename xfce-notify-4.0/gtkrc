@@ -27,7 +27,7 @@ style "notify-button" {
 }
 
 style "notify-text" {
-    GtkWidget::link-color = "#1793d1"
+    GtkWidget::link-color = "#333333"
 
     fg[NORMAL] = "#a0afa0"
     fg[PRELIGHT] = "#a0afa0"
