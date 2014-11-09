@@ -15,8 +15,8 @@ style "notify-button" {
     bg[ACTIVE] = "#333333"
 
     fg[NORMAL] = "#dcdcdc"
-    fg[PRELIGHT] = "#dedede"
-    fg[ACTIVE] = "#dedede"
+    fg[PRELIGHT] = "#3F3F3F3F3F3F"
+    fg[ACTIVE] = "#3F3F3F3F3F3F"
 
     engine "murrine" {
         gradient_shades = { 1.0, 1.0, 1.0, 1.0 }
@@ -48,7 +48,7 @@ style "notify-progressbar" {
 
     bg[NORMAL]   = "#dcdcdc"
 	bg[ACTIVE] = "#333333"
-    bg[SELECTED] = "#dedede"
+    bg[SELECTED] = "#3F3F3F3F3F3F"
 
     fg[PRELIGHT] = "#333333"
     fg[ACTIVE] = "#f9f9f9"
