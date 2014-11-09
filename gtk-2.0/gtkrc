@@ -1,6 +1,6 @@
 # Numix-ArchBlue GTK Theme
 
-gtk-color-scheme = "bg_color:#3F3F3F3F3F3F\nfg_color:#DCDCDCDCCCCC\nbase_color:#f9f9f9\ntext_color:#333333\nselected_bg_color:#1793d1\nselected_fg_color:#f9f9f9\ntooltip_bg_color:#333333\ntooltip_fg_color:#3F3F3F3F3F3F\ntitlebar_bg_color:#333333\ntitlebar_fg_color:#dcdcdc\nmenubar_bg_color:#333333\nmenubar_fg_color:#dcdcdc\ntoolbar_bg_color:#3F3F3F3F3F3F\ntoolbar_fg_color:#DCDCDCDCCCCC\nmenu_bg_color:#333333\nmenu_fg_color:#dcdcdc\npanel_bg_color:#333333\npanel_fg_color:#dcdcdc\nlink_color:#1793d1"
+gtk-color-scheme = "bg_color:#3F3F3F3F3F3F\nfg_color:#DCDCDCDCCCCC\nbase_color:#a0afa0\ntext_color:#333333\nselected_bg_color:#1793d1\nselected_fg_color:#a0afa0\ntooltip_bg_color:#333333\ntooltip_fg_color:#3F3F3F3F3F3F\ntitlebar_bg_color:#333333\ntitlebar_fg_color:#dcdcdc\nmenubar_bg_color:#333333\nmenubar_fg_color:#dcdcdc\ntoolbar_bg_color:#3F3F3F3F3F3F\ntoolbar_fg_color:#DCDCDCDCCCCC\nmenu_bg_color:#333333\nmenu_fg_color:#dcdcdc\npanel_bg_color:#333333\npanel_fg_color:#dcdcdc\nlink_color:#1793d1"
 
 # Default Style
 
